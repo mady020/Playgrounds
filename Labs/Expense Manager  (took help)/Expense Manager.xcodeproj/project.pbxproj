@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		3F8F1C0B2E28C3DB0090807F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F8F1BEC2E28C3D80090807F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F8F1BF32E28C3D80090807F;
+			remoteInfo = "Expense Manager";
+		};
+		3F8F1C152E28C3DB0090807F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F8F1BEC2E28C3D80090807F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F8F1BF32E28C3D80090807F;
+			remoteInfo = "Expense Manager";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3F8F1BF42E28C3D80090807F /* Expense Manager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Expense Manager.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F8F1C0A2E28C3DB0090807F /* Expense ManagerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Expense ManagerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F8F1C142E28C3DB0090807F /* Expense ManagerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Expense ManagerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		3F8F1C1C2E28C3DB0090807F /* Exceptions for "Expense Manager" folder in "Expense Manager" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 3F8F1BF32E28C3D80090807F /* Expense Manager */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		3F8F1BF62E28C3D80090807F /* Expense Manager */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				3F8F1C1C2E28C3DB0090807F /* Exceptions for "Expense Manager" folder in "Expense Manager" target */,
+			);
+			path = "Expense Manager";
+			sourceTree = "<group>";
+		};
+		3F8F1C0D2E28C3DB0090807F /* Expense ManagerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Expense ManagerTests";
+			sourceTree = "<group>";
+		};
+		3F8F1C172E28C3DB0090807F /* Expense ManagerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Expense ManagerUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3F8F1BF12E28C3D80090807F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8F1C072E28C3DB0090807F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8F1C112E28C3DB0090807F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3F8F1BEB2E28C3D80090807F = {
+			isa = PBXGroup;
+			children = (
+				3F8F1BF62E28C3D80090807F /* Expense Manager */,
+				3F8F1C0D2E28C3DB0090807F /* Expense ManagerTests */,
+				3F8F1C172E28C3DB0090807F /* Expense ManagerUITests */,
+				3F8F1BF52E28C3D80090807F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3F8F1BF52E28C3D80090807F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3F8F1BF42E28C3D80090807F /* Expense Manager.app */,
+				3F8F1C0A2E28C3DB0090807F /* Expense ManagerTests.xctest */,
+				3F8F1C142E28C3DB0090807F /* Expense ManagerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3F8F1BF32E28C3D80090807F /* Expense Manager */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F8F1C1D2E28C3DB0090807F /* Build configuration list for PBXNativeTarget "Expense Manager" */;
+			buildPhases = (
+				3F8F1BF02E28C3D80090807F /* Sources */,
+				3F8F1BF12E28C3D80090807F /* Frameworks */,
+				3F8F1BF22E28C3D80090807F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				3F8F1BF62E28C3D80090807F /* Expense Manager */,
+			);
+			name = "Expense Manager";
+			packageProductDependencies = (
+			);
+			productName = "Expense Manager";
+			productReference = 3F8F1BF42E28C3D80090807F /* Expense Manager.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3F8F1C092E28C3DB0090807F /* Expense ManagerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F8F1C222E28C3DB0090807F /* Build configuration list for PBXNativeTarget "Expense ManagerTests" */;
+			buildPhases = (
+				3F8F1C062E28C3DB0090807F /* Sources */,
+				3F8F1C072E28C3DB0090807F /* Frameworks */,
+				3F8F1C082E28C3DB0090807F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F8F1C0C2E28C3DB0090807F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3F8F1C0D2E28C3DB0090807F /* Expense ManagerTests */,
+			);
+			name = "Expense ManagerTests";
+			packageProductDependencies = (
+			);
+			productName = "Expense ManagerTests";
+			productReference = 3F8F1C0A2E28C3DB0090807F /* Expense ManagerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3F8F1C132E28C3DB0090807F /* Expense ManagerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F8F1C252E28C3DB0090807F /* Build configuration list for PBXNativeTarget "Expense ManagerUITests" */;
+			buildPhases = (
+				3F8F1C102E28C3DB0090807F /* Sources */,
+				3F8F1C112E28C3DB0090807F /* Frameworks */,
+				3F8F1C122E28C3DB0090807F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F8F1C162E28C3DB0090807F /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3F8F1C172E28C3DB0090807F /* Expense ManagerUITests */,
+			);
+			name = "Expense ManagerUITests";
+			packageProductDependencies = (
+			);
+			productName = "Expense ManagerUITests";
+			productReference = 3F8F1C142E28C3DB0090807F /* Expense ManagerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3F8F1BEC2E28C3D80090807F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					3F8F1BF32E28C3D80090807F = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					3F8F1C092E28C3DB0090807F = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 3F8F1BF32E28C3D80090807F;
+					};
+					3F8F1C132E28C3DB0090807F = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 3F8F1BF32E28C3D80090807F;
+					};
+				};
+			};
+			buildConfigurationList = 3F8F1BEF2E28C3D80090807F /* Build configuration list for PBXProject "Expense Manager" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3F8F1BEB2E28C3D80090807F;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 3F8F1BF52E28C3D80090807F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3F8F1BF32E28C3D80090807F /* Expense Manager */,
+				3F8F1C092E28C3DB0090807F /* Expense ManagerTests */,
+				3F8F1C132E28C3DB0090807F /* Expense ManagerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3F8F1BF22E28C3D80090807F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8F1C082E28C3DB0090807F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8F1C122E28C3DB0090807F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3F8F1BF02E28C3D80090807F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8F1C062E28C3DB0090807F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8F1C102E28C3DB0090807F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3F8F1C0C2E28C3DB0090807F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F8F1BF32E28C3D80090807F /* Expense Manager */;
+			targetProxy = 3F8F1C0B2E28C3DB0090807F /* PBXContainerItemProxy */;
+		};
+		3F8F1C162E28C3DB0090807F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F8F1BF32E28C3D80090807F /* Expense Manager */;
+			targetProxy = 3F8F1C152E28C3DB0090807F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3F8F1C1E2E28C3DB0090807F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Expense Manager/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Anushka.Expense-Manager";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3F8F1C1F2E28C3DB0090807F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Expense Manager/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Anushka.Expense-Manager";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3F8F1C202E28C3DB0090807F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3F8F1C212E28C3DB0090807F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3F8F1C232E28C3DB0090807F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Anushka.Expense-ManagerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Expense Manager.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Expense Manager";
+			};
+			name = Debug;
+		};
+		3F8F1C242E28C3DB0090807F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Anushka.Expense-ManagerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Expense Manager.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Expense Manager";
+			};
+			name = Release;
+		};
+		3F8F1C262E28C3DB0090807F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Anushka.Expense-ManagerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Expense Manager";
+			};
+			name = Debug;
+		};
+		3F8F1C272E28C3DB0090807F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Anushka.Expense-ManagerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Expense Manager";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3F8F1BEF2E28C3D80090807F /* Build configuration list for PBXProject "Expense Manager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F8F1C202E28C3DB0090807F /* Debug */,
+				3F8F1C212E28C3DB0090807F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F8F1C1D2E28C3DB0090807F /* Build configuration list for PBXNativeTarget "Expense Manager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F8F1C1E2E28C3DB0090807F /* Debug */,
+				3F8F1C1F2E28C3DB0090807F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F8F1C222E28C3DB0090807F /* Build configuration list for PBXNativeTarget "Expense ManagerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F8F1C232E28C3DB0090807F /* Debug */,
+				3F8F1C242E28C3DB0090807F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F8F1C252E28C3DB0090807F /* Build configuration list for PBXNativeTarget "Expense ManagerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F8F1C262E28C3DB0090807F /* Debug */,
+				3F8F1C272E28C3DB0090807F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3F8F1BEC2E28C3D80090807F /* Project object */;
+}
