@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D6760D3D-6235-4D21-818B-84437300AB41"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFE350F0-0319-45F5-A627-E870298B3E02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FavoriteBooksLab/BookFormTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "BookFormTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BFE350F0-0319-45F5-A627-E870298B3E02 - a5ecba9cf6bced69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FavoriteBooksLab.BookFormTableViewController.__allocating_init(coder: __C.NSCoder, indexPath: Swift.Optional&lt;Foundation.IndexPath&gt;, book: Swift.Optional&lt;FavoriteBooksLab.Book&gt;) -&gt; Swift.Optional&lt;FavoriteBooksLab.BookFormTableViewController&gt;"
+                  moduleName = "FavoriteBooksLab.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/Playgrounds/Favorite%20Books%20-%202310991887/FavoriteBooksLab/BookFormTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "BFE350F0-0319-45F5-A627-E870298B3E02 - 7c5e54a631c07df2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FavoriteBooksLab.BookFormTableViewController.init(coder: __C.NSCoder, indexPath: Swift.Optional&lt;Foundation.IndexPath&gt;, book: Swift.Optional&lt;FavoriteBooksLab.Book&gt;) -&gt; Swift.Optional&lt;FavoriteBooksLab.BookFormTableViewController&gt;"
+                  moduleName = "FavoriteBooksLab.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Desktop/Playgrounds/Favorite%20Books%20-%202310991887/FavoriteBooksLab/BookFormTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
